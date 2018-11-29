@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1540581701 source:c:\users\druidox\documents\c\gg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ColorNameAll.h>
+	<Calculadora.h>
+
+1536594316 source:c:\users\druidox\documents\c\gg\src\getcolor.cpp
+
+1536594190 c:\users\druidox\documents\c\gg\include\getcolor.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1536599558 source:c:\users\druidox\documents\c\gg\src\colorset.cpp
+
+1536594928 c:\users\druidox\documents\c\gg\include\colorset.h
+
+1536599748 source:c:\users\druidox\documents\c\gg\src\colors.cpp
+	"ColorS.h"
+
+1536595991 c:\users\druidox\documents\c\gg\include\colors.h
+
+1540559939 c:\users\druidox\documents\c\gg\include\colornameall.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1537498844 source:d:\c\gg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ColorNameAll.h>
+	<math.h>
+
+1537503162 d:\c\gg\include\colornameall.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1536596148 source:d:\c\gg\src\colors.cpp
+	"ColorS.h"
+
+1536595958 source:d:\c\gg\src\colorset.cpp
+
+1540581390 c:\users\druidox\documents\c\gg\include\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+
+1542994198 source:c:\users\druidox\documents\c\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ColorNameAll.h>
+	<Calculadora.h>
+
+1540559939 c:\users\druidox\documents\c\calculadora\include\colornameall.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1542999174 c:\users\druidox\documents\c\calculadora\include\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+	<Funcs.h>
+
+1536599748 source:c:\users\druidox\documents\c\calculadora\src\colors.cpp
+	"ColorS.h"
+
+1536599558 source:c:\users\druidox\documents\c\calculadora\src\colorset.cpp
+
+1542998925 c:\users\druidox\documents\c\calculadora\include\funcs.h
+
+1543008801 source:c:\users\caiof\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ColorNameAll.h>
+	<Calculadora.h>
+
+1540567139 c:\users\caiof\desktop\calculadora\include\colornameall.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1543008801 c:\users\caiof\desktop\calculadora\include\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+	<Funcs.h>
+
+1543008801 c:\users\caiof\desktop\calculadora\include\funcs.h
+
+1536599748 source:c:\users\caiof\desktop\calculadora\src\colors.cpp
+	"ColorS.h"
+
+1536599558 source:c:\users\caiof\desktop\calculadora\src\colorset.cpp
+
+1543009304 source:c:\users\caiof\desktop\mathform\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ColorNameAll.h>
+	<Calculadora.h>
+
+1540567139 c:\users\caiof\desktop\mathform\calculadora\include\colornameall.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1543008801 c:\users\caiof\desktop\mathform\calculadora\include\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+	<Funcs.h>
+
+1543008801 c:\users\caiof\desktop\mathform\calculadora\include\funcs.h
+
+1536599748 source:c:\users\caiof\desktop\mathform\calculadora\src\colors.cpp
+	"ColorS.h"
+
+1536599558 source:c:\users\caiof\desktop\mathform\calculadora\src\colorset.cpp
+
+1543015620 source:c:\users\caiof\desktop\copia_em_teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ColorNameAll.h>
+	<Calculadora.h>
+
+1540567139 c:\users\caiof\desktop\copia_em_teste\include\colornameall.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1543015784 c:\users\caiof\desktop\copia_em_teste\include\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+	<ctype.h>
+	<Funcs.h>
+
+1536599748 source:c:\users\caiof\desktop\copia_em_teste\src\colors.cpp
+	"ColorS.h"
+
+1536599558 source:c:\users\caiof\desktop\copia_em_teste\src\colorset.cpp
+
+1543014854 c:\users\caiof\desktop\copia_em_teste\include\funcs.h
+
+1543015622 source:d:\projeto integrador full\mathform_full\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ColorNameAll.h>
+	<Calculadora.h>
+
+1540567140 d:\projeto integrador full\mathform_full\include\colornameall.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1543015950 d:\projeto integrador full\mathform_full\include\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<math.h>
+	<ctype.h>
+	<Funcs.h>
+
+1543014856 d:\projeto integrador full\mathform_full\include\funcs.h
+
+1536599748 source:d:\projeto integrador full\mathform_full\src\colors.cpp
+	"ColorS.h"
+
+1536599558 source:d:\projeto integrador full\mathform_full\src\colorset.cpp
+
+1536599748 source:f:\projeto integrador full\mathform_full\src\colors.cpp
+	"ColorS.h"
+
+1536599558 source:f:\projeto integrador full\mathform_full\src\colorset.cpp
+
+1536599748 source:c:\users\usuario\desktop\mathform_full\src\colors.cpp
+	"ColorS.h"
+
+1536599558 source:c:\users\usuario\desktop\mathform_full\src\colorset.cpp
+
